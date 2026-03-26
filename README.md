@@ -152,34 +152,34 @@ sudo gem install cocoapods
 ## 👤 Authors
 Group of students who contributed to the development of the Industry Day project.
 
-- Ana Júlia Martins da Silva  
-- Ana Livia Domingas de Oliveira 
-- Ana Lívia Evangelista da Silva   
-- André Santos Conte  
-- Arthur Vida Leal  
-- Beatriz Cazula Mantovani  
-- Caio Mazini Viana  
-- Carlos Eduardo Alexandrino  
-- Diego Santiago da Silva  
-- Gabriel Marcelo Lopes da Fonseca  
-- Gabriel Silveira Mariano de Souza  
-- Guilherme Ferreira Matias de Oliveira  
-- Gustavo Bonifácio Ferreira  
-- Igor Schanoski Pedro da Silva  
-- João Pedro Dala Dea Mello  
-- Kauany Gabrieli Ribeiro Cavatoni  
-- Laís Elias da Silva  
-- Leandro de Oliveira Sibim  
-- Lívia Araujo Berlandi  
-- Lívia Stolses Marrera  
-- Maria Clara Milhorança Verri  
-- Maria Eduarda Abreu Benedito  
-- Maria Eduarda Da Silva  
-- Maria Eduarda de Andrade Soares  
-- Matheus Guerra Brisola Cardoso  
-- Murilo Mesquita Molina  
-- Nicole dos Santos Moreira  
-- Nicoli de Camargo Miranda Farias  
-- Pedro Henrique Moreira Redondo  
-- Renan Cadamuro Carrara  
-- Vinicius Feliciano Barbosa
+- Ana Júlia Martins da Silva  ((Planning and Marketing)
+- Ana Livia Domingas de Oliveira (Planning and Marketing)
+- Ana Lívia Evangelista da Silva   (Planning and Marketing)
+- André Santos Conte  (Planning and Prototype)
+- Arthur Vida Leal  (Planning)
+- Beatriz Cazula Mantovani  (Planning and Marketing)
+- Caio Mazini Viana  (Prototype)
+- Carlos Eduardo Alexandrino  (Planning and Prototype)
+- Diego Santiago da Silva  (Prototype)
+- Gabriel Marcelo Lopes da Fonseca  (Planning and Prototype)
+- Gabriel Silveira Mariano de Souza (Planning and Prototype)
+- Guilherme Ferreira Matias de Oliveira  (Planning)
+- Gustavo Bonifácio Ferreira  (Prototype)
+- Igor Schanoski Pedro da Silva  (Planning and Prototype)
+- João Pedro Dala Dea Mello  (Coding, Planning and Prototype)
+- Kauany Gabrieli Ribeiro Cavatoni  (Planning and Prototype)
+- Laís Elias da Silva  (Planning and Marketing)
+- Leandro de Oliveira Sibim  (Planning and Prototype)
+- Lívia Araujo Berlandi  (Marketing)
+- Lívia Stolses Marrera  (Marketing)
+- Maria Clara Milhorança Verri  (Marketing and Planning)
+- Maria Eduarda Abreu Benedito  (Marketing)
+- Maria Eduarda Da Silva  (Arts and Marketing)
+- Maria Eduarda de Andrade Soares  (Prototype, Marketing and Planning) 
+- Matheus Guerra Brisola Cardoso  (Prototype)
+- Murilo Mesquita Molina  (Prototype)
+- Nicole dos Santos Moreira  (Marketing and Planning)
+- Nicoli de Camargo Miranda Farias  (Planning)
+- Pedro Henrique Moreira Redondo (Prototype)
+- Renan Cadamuro Carrara (Prototype)
+- Vinicius Feliciano Barbosa (Prototype)
